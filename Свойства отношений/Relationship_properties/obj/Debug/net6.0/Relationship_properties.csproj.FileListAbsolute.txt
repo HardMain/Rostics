@@ -1,0 +1,15 @@
+C:\Users\Владимир\Desktop\Политех\Дискретная математика\Лабы\Свойства отношений\Relationship_properties\bin\Debug\net6.0\Relationship_properties.exe
+C:\Users\Владимир\Desktop\Политех\Дискретная математика\Лабы\Свойства отношений\Relationship_properties\bin\Debug\net6.0\Relationship_properties.deps.json
+C:\Users\Владимир\Desktop\Политех\Дискретная математика\Лабы\Свойства отношений\Relationship_properties\bin\Debug\net6.0\Relationship_properties.runtimeconfig.json
+C:\Users\Владимир\Desktop\Политех\Дискретная математика\Лабы\Свойства отношений\Relationship_properties\bin\Debug\net6.0\Relationship_properties.dll
+C:\Users\Владимир\Desktop\Политех\Дискретная математика\Лабы\Свойства отношений\Relationship_properties\bin\Debug\net6.0\Relationship_properties.pdb
+C:\Users\Владимир\Desktop\Политех\Дискретная математика\Лабы\Свойства отношений\Relationship_properties\obj\Debug\net6.0\Relationship_properties.csproj.AssemblyReference.cache
+C:\Users\Владимир\Desktop\Политех\Дискретная математика\Лабы\Свойства отношений\Relationship_properties\obj\Debug\net6.0\Relationship_properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\Desktop\Политех\Дискретная математика\Лабы\Свойства отношений\Relationship_properties\obj\Debug\net6.0\Relationship_properties.AssemblyInfoInputs.cache
+C:\Users\Владимир\Desktop\Политех\Дискретная математика\Лабы\Свойства отношений\Relationship_properties\obj\Debug\net6.0\Relationship_properties.AssemblyInfo.cs
+C:\Users\Владимир\Desktop\Политех\Дискретная математика\Лабы\Свойства отношений\Relationship_properties\obj\Debug\net6.0\Relationship_properties.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Desktop\Политех\Дискретная математика\Лабы\Свойства отношений\Relationship_properties\obj\Debug\net6.0\Relationship_properties.dll
+C:\Users\Владимир\Desktop\Политех\Дискретная математика\Лабы\Свойства отношений\Relationship_properties\obj\Debug\net6.0\refint\Relationship_properties.dll
+C:\Users\Владимир\Desktop\Политех\Дискретная математика\Лабы\Свойства отношений\Relationship_properties\obj\Debug\net6.0\Relationship_properties.pdb
+C:\Users\Владимир\Desktop\Политех\Дискретная математика\Лабы\Свойства отношений\Relationship_properties\obj\Debug\net6.0\Relationship_properties.genruntimeconfig.cache
+C:\Users\Владимир\Desktop\Политех\Дискретная математика\Лабы\Свойства отношений\Relationship_properties\obj\Debug\net6.0\ref\Relationship_properties.dll
